@@ -45,7 +45,6 @@ java Main
 - Read the instructions displayed in the popup then press ok to proceed
 - Click on cards directly in front of the player card to progress forward in the dungeon
 - After clicking onto a monster card, your health will be deducted by the amount of hp the monster possesses
-- Defeat the boss at the end of the dungeon without losing all your hp points to win
 - Use your ability to damage all monsters on the screen
   - Press space to activate
   - Costs 4 mana points
@@ -53,10 +52,11 @@ java Main
 - Stay alive with health pots and heart containers
   - Health pots add onto your current hp up until the max hp limit
   - Heart containers increase the max hp limit and the current hp by 1
-
+- Defeat the boss at the end of the dungeon without losing all your hp points to win
 
 ## Links
 - [JDK Download](https://www.oracle.com/java/technologies/downloads/)
 - [GitHub Repository](https://github.com/GregT7/forward-escape-the-fold-clone)
+- [Forward: Escape the Fold Steam Listing](https://store.steampowered.com/app/1766390/FORWARD_Escape_the_Fold__Ultimate_Edition/)
 
 
